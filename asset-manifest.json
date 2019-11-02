@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/electric-bill-calculator/static/js/main.4c51b83c.chunk.js",
-    "main.js.map": "/electric-bill-calculator/static/js/main.4c51b83c.chunk.js.map",
+    "main.js": "/electric-bill-calculator/static/js/main.e722dd8b.chunk.js",
+    "main.js.map": "/electric-bill-calculator/static/js/main.e722dd8b.chunk.js.map",
     "runtime-main.js": "/electric-bill-calculator/static/js/runtime-main.d0568011.js",
     "runtime-main.js.map": "/electric-bill-calculator/static/js/runtime-main.d0568011.js.map",
     "static/js/2.1fd405ae.chunk.js": "/electric-bill-calculator/static/js/2.1fd405ae.chunk.js",
     "static/js/2.1fd405ae.chunk.js.map": "/electric-bill-calculator/static/js/2.1fd405ae.chunk.js.map",
     "index.html": "/electric-bill-calculator/index.html",
-    "precache-manifest.2dc23b799a2ba1c5009a5a3b7aec4285.js": "/electric-bill-calculator/precache-manifest.2dc23b799a2ba1c5009a5a3b7aec4285.js",
+    "precache-manifest.be26bfec5e4d39b9bb8b2983b835a7f7.js": "/electric-bill-calculator/precache-manifest.be26bfec5e4d39b9bb8b2983b835a7f7.js",
     "service-worker.js": "/electric-bill-calculator/service-worker.js",
     "static/media/settings.975cb155.svg": "/electric-bill-calculator/static/media/settings.975cb155.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d0568011.js",
     "static/js/2.1fd405ae.chunk.js",
-    "static/js/main.4c51b83c.chunk.js"
+    "static/js/main.e722dd8b.chunk.js"
   ]
 }
