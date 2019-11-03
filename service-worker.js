@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/electric-bill-calculator/precache-manifest.34e1bc5e3e670dff0592f8782d9fb0af.js"
+  "/electric-bill-calculator/precache-manifest.87eba6bd188566c4e10a0ea3da53ed9b.js"
 );
 
 self.addEventListener('message', (event) => {
